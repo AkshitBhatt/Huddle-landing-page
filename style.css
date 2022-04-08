@@ -12,7 +12,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 2px solid;
+  /* border: 2px solid; */
   width: 100%;
   position: relative;
 }
@@ -165,7 +165,8 @@
 /*          Footer  Container css           */
 
 .slast {
-  border: 2px solid;
+  /* border: 2px solid; */
+  box-shadow: 2px 7px 17px #000000;
   padding: 2rem 10rem;
   background-color: #fff;
   border-radius: .5rem;
