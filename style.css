@@ -288,6 +288,7 @@ html{
 
 
 
+
 @media (max-width:490px){
   html{
     font-size: 12px;
@@ -444,11 +445,16 @@ html{
     white-space: nowrap;
     margin: 0;
     align-self: center;
+  }
+  
 }
 
 @media(max-width:1920px){
   .slast{
     bottom: 12.4%;
+  }
+  .copyright{
+    align-self: flex-end;
   }
 }
 @media(max-width:375px){
@@ -464,6 +470,8 @@ html{
   .slast{
     bottom: 19.5%;
   }
+  .copyright{
+    align-self: center;
+  }
 }
 
-} 
