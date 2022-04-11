@@ -83,9 +83,7 @@ html{
   width: 40%;
 }
 
-.photo{
-  /* width: 40%; */
-}
+
 
 .photo img {
   width: 75%;
@@ -108,7 +106,7 @@ html{
   color: white;
   font-weight: 600;
   height: 3rem;
-  font-size: 13px;
+  font-size: .9rem;
   background-color: hsl(322, 100%, 66%);
   border-radius: 27px;
   padding: 14px 0 0 52px;
@@ -468,3 +466,4 @@ html{
   }
 }
 
+} 
